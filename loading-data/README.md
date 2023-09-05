@@ -1,5 +1,8 @@
 <img width="1440" alt="Screenshot 2023-09-05 at 10 30 13 PM" src="https://github.com/AmaanAlii/loading-data/assets/117629490/89e2f0bb-f6d4-4593-a714-4c26080e7577">
 
+<img width="1440" alt="Screenshot 2023-09-05 at 11 00 11 PM" src="https://github.com/AmaanAlii/loading-data/assets/117629490/f6f7be27-0e4c-4d59-b9be-1e4e37269a8c">
+
+
 
 # Getting Started with Create React App
 
