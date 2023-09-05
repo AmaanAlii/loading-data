@@ -1,3 +1,6 @@
+<img width="1440" alt="Screenshot 2023-09-05 at 10 30 13 PM" src="https://github.com/AmaanAlii/loading-data/assets/117629490/89e2f0bb-f6d4-4593-a714-4c26080e7577">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+## Dont forget to run the command `npm i` or `npm install` ton install all the dependencies before running the app.
 
 ### `npm start`
 
